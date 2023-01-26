@@ -2,6 +2,7 @@
   "expo": {
     "name": "Calculator",
     "slug": "Calculator",
+    "description": "A Simple Calculator",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,13 +22,19 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.Sharvesh.Calculator",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.jpg"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4dbb21ed-bd29-4dd3-b888-d1f7843f5e66"
+      }
     }
   }
 }
