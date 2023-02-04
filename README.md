@@ -1,5 +1,5 @@
 # REACT NATIVE CALCULATOR
-Simple calculator using Python's library Tkinter
+Simple calculator created through react native
 
 ## Getting Started
 
