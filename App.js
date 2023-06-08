@@ -6,7 +6,7 @@ import {
   StatusBar,
   SafeAreaView,
 } from "react-native";
-
+//component button
 import Button from "./components/Button";
 import Row from "./components/Row";
 import calculator, { initialState } from "./calculator";
